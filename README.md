@@ -2,7 +2,7 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+Quero aprender a usar Unity 3D para programar o aplicativo relacionado aos Geoparques.
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
